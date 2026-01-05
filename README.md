@@ -5,7 +5,7 @@ A **simple personal webpage** built with **HTML and CSS** to practice layout, st
 
 
 ## 🌐 Live Demo
-- **View here:** [<Personal Page>](https://fascinating-quokka-1c4fcd.netlify.app/)
+- **View here:** [<PersonalWebsite>](https://fascinating-quokka-1c4fcd.netlify.app/)
 
 ## ✨ Features
 - Clean, semantic **HTML structure**
