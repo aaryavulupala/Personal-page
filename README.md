@@ -2,10 +2,8 @@
 
 A **simple personal webpage** built with **HTML and CSS** to practice layout, styling, and basic interactivity. The site includes a clean structure, responsive styling, and placeholder buttons designed for future JavaScript functionality.
 
-
-
 ## 🌐 Live Demo
-- **View here:** [<PersonalWebsite>](https://fascinating-quokka-1c4fcd.netlify.app/)
+- **View here:** [<YOUR_LIVE_LINK_HERE>](https://fascinating-quokka-1c4fcd.netlify.app/)
 
 ## ✨ Features
 - Clean, semantic **HTML structure**
