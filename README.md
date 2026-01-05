@@ -1,32 +1,29 @@
-# Blackjack (Web)
+# Personal Website (HTML / CSS)
 
-A fully playable **Blackjack game in the browser** built with **vanilla JavaScript, HTML, and CSS**, and **deployed to the web**. Play against the dealer with clean UI updates and accurate scoring (including Ace logic).
+A **simple personal webpage** built with **HTML and CSS** to practice layout, styling, and basic interactivity. The site includes a clean structure, responsive styling, and placeholder buttons designed for future JavaScript functionality.
 
-## 🚀 Live Demo
-- **Play here:** <YOUR_LIVE_LINK_HERE>
+
+
+## 🌐 Live Demo
+- **View here:** [<YOUR_LIVE_LINK_HERE>](https://fascinating-quokka-1c4fcd.netlify.app/)
 
 ## ✨ Features
-- Shuffled 52-card deck + random dealing  
-- **Hit** / **Stand** controls  
-- Accurate hand scoring (**Aces = 1 or 11**)  
-- Dealer logic (dealer draws until reaching a threshold)  
-- Win / loss / push outcome messages  
-- **New Round / Reset** support  
-- Responsive layout (desktop + mobile)
+- Clean, semantic **HTML structure**
+- Custom **CSS styling** (layout, colors, typography)
+- Responsive design for desktop and mobile
+- Interactive **UI buttons** (visual feedback only)
+- Organized sections (intro, content, actions)
 
 ## 🛠 Tech Stack
-- **JavaScript** (game logic + DOM manipulation)
-- **HTML** (structure)
-- **CSS** (styling + responsiveness)
+- **HTML** — page structure and content
+- **CSS** — styling, layout, responsiveness
 
 ## 📦 How to Run Locally
-1. Download or clone this repo
-2. Open `index.html` in your browser  
-   *(or use VS Code Live Server for best results)*
+1. Clone or download this repository  
+2. Open `index.html` in any modern browser
 
 ## 📁 Project Structure
 ```txt
 .
 ├── index.html
-├── style.css
-└── script.js
+└── style.css
